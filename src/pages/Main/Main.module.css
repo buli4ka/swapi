@@ -1,0 +1,18 @@
+.listItem {
+    list-style: none;
+    font-size: 30px;
+    text-align: center;
+    margin: 5vh;
+    padding: 1vh;
+    border: #337ab7 1px solid;
+    cursor: pointer;
+    border-radius: 34px;
+}
+
+.listItem:hover {
+    background-color: lightgray;
+}
+
+.listItem:first-letter {
+    text-transform: uppercase;
+}

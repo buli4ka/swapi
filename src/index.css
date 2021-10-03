@@ -5,9 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background:url("https://www.thoughtco.com/thmb/zItwSKPW6yo8cwz3WyV3FbpcpQU=/2131x1407/filters:fill(auto,1)/betelgeuse-star-987396640-afd328ff2f774d769c56ed59ca336eb4.jpg");
+  color: #dddddd;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+h1:first-letter{
+  text-transform: uppercase;
 }

@@ -1,0 +1,20 @@
+.link{
+    text-decoration: none;
+    color: blue;
+
+}
+.link:visited {
+     text-decoration: none;
+ }
+
+.article{
+    border: #337ab7 1px solid;
+    cursor: pointer;
+    border-radius: 34px;
+    margin: 3vh;
+    padding: 1vh;
+}
+.article:hover{
+    background-color: lightgray;
+
+}
